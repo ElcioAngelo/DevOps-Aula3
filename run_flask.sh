@@ -3,5 +3,4 @@
 export FLASK_APP=app.py
 export FLASK_ENV=devenlopment
 source devenlopment/bin/activate
-run flask
-
+flask run 
